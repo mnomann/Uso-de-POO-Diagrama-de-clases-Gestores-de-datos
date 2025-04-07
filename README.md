@@ -5,7 +5,7 @@ Este es un sistema de gestión de una tienda de componentes tecnológicos que pe
 # Requisitos
 
 - Java 8 o superior.
-- Dependencia de `Gson` para manejo de JSON. Puedes incluirla en tu proyecto mediante Maven o descargando el `.jar` directamente.
+- Dependencia de `Gson` para manejo de JSON. Puedes incluirla en tu proyecto mediante Maven
 
 # Características
 
