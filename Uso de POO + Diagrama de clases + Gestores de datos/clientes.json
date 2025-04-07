@@ -1,0 +1,10 @@
+1[
+  {
+    "nombre": "Ana",
+    "apellido": "Pérez",
+    "correo": "ana.perez@email.com",
+    "contacto": "987654321",
+    "estadoCivil": "Soltera",
+    "ciudad": "Valparaíso"
+  }
+]

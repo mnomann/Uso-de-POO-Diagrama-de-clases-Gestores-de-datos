@@ -1,0 +1,15 @@
+[
+    {
+      "marca": "Samsung",
+      "modelo": "Galaxy Tab S7",
+      "procesador": "Snapdragon",
+      "ram": 6,
+      "almacenamiento": 128,
+      "anioFabricacion": 2021,
+      "precio": 420.0,
+      "stock": 7,
+      "resolucionPantalla": "2560x1600",
+      "accesorios": ["Lápiz", "Funda"]
+    }
+  ]
+  

@@ -1,0 +1,16 @@
+[
+    {
+      "marca": "Lenovo",
+      "modelo": "IdeaPad",
+      "procesador": "Ryzen 5",
+      "ram": 8,
+      "almacenamiento": 512,
+      "anioFabricacion": 2022,
+      "precio": 650.0,
+      "stock": 10,
+      "resolucionPantalla": "1920x1080",
+      "tipoTeclado": "Retroiluminado",
+      "bateria": 4500
+    }
+  ]
+  

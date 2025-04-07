@@ -1,0 +1,21 @@
+[
+    {
+      "marca": "HP",
+      "modelo": "Omen",
+      "procesador": "Intel i7",
+      "ram": 16,
+      "almacenamiento": 1000,
+      "anioFabricacion": 2023,
+      "precio": 950.0,
+      "stock": 5,
+      "tarjetaVideo": "NVIDIA RTX 3060",
+      "fuentePoder": "650W",
+      "chasis": "MidTower",
+      "pantalla": {
+        "marca": "Dell",
+        "modelo": "UltraSharp",
+        "anio": 2022
+      }
+    }
+  ]
+  
